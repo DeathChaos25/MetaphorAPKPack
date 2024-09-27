@@ -1,5 +1,5 @@
-This program is a command-line tool made for packing/unpacking PAK files from the video game Metaphor: ReFantazio.
-(Note: This program requires dotnet 8.0 or later to work!)
+This program is a command-line tool made for packing/unpacking PAK files from the video game Metaphor: ReFantazio.  
+(Note: This program requires dotnet 8.0 or later to work!)  
 
 ## Features
 
