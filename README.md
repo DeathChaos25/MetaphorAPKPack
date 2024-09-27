@@ -23,3 +23,5 @@ This program is a command-line tool made for packing/unpacking PAK files from th
         1. Compress each DDS file using LZ4 compression (HC level).  
         2. Generate a new APK containing the compressed DDS files.  
         3. The file order is maintained according to FileList.txt.  
+
+  ![](https://pbs.twimg.com/media/GYdGgwbbwAAPE-d?format=jpg&name=4096x4096)
